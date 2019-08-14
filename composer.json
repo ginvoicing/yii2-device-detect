@@ -1,5 +1,5 @@
 {
-	"name": "alexandernst/yii2-device-detect",
+	"name": "ginvoicing/yii2-device-detect",
 	"description": "Yii2 extension for Mobile-Detect library",
 	"type": "yii2-extension",
 	"keywords": ["yii2","extension","widget","device","detect","mobile","phone","tablet","desktop"],
@@ -8,11 +8,15 @@
 		{
 			"name": "Alexander Nestorov",
 			"email": "alexandernst@gmail.com"
+		},
+		{
+			"name": "Tarun Jangra",
+			"email": "tarun.jangra@hotmail.com"
 		}
 	],
 	"autoload": {
 		"psr-4": {
-			"alexandernst\\devicedetect\\": ""
+			"ginvoicing\\devicedetect\\": ""
 		}
 	},
 	"require": {

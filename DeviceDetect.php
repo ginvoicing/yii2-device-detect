@@ -1,6 +1,6 @@
 <?php
 
-namespace alexandernst\devicedetect;
+namespace ginvoicing\devicedetect;
 
 use Yii;
 use Detection\MobileDetect;
